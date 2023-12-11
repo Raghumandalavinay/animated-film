@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+video{
+    width: 100%;
+}
+button{
+    color: blueviolet;
+    font-size: 50px;
+    
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.container1{
+    background-color: brown;
+    display: flex;
+
+}
+.container1 img{
+    width: 200px; height: 200px;
+    margin: 2% 6%;
+}
+.container1 .title{
+    padding:10% 15%
+}
+.container2{
+    background-color: gray;
+    display: flex;
+
+}
+.container2 img{
+    width: 200px; height: 200px;
+    margin: 2% 6%;
+}
+.container2 .title{
+    padding:10% 15%
+}
